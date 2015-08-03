@@ -1,2 +1,4 @@
-# universal-webpack
-Library to greatly simplify running, watching, testing, &amp; deploying Webpack to the client &amp; server.
+# Universal Webpack
+> Library to greatly simplify running, watching, testing, & deploying universal apps with webpack.
+
+Watch this space...
